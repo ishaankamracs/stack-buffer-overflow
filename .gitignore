@@ -1,3 +1,6 @@
 code/login
 code/login_addresses
 .DS_Store
+slides/*.mp4
+slides/*.pptx
+slides/~$*
